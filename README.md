@@ -2,6 +2,4 @@
 Learning Github
 Hello world
 Hi this is me
-
-OSS class#
-
+OSS session
